@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IntelliJ project files
+.idea
+ *.iml
+ *.ipr
+ *.iws
+ .idea/*
+ .idea_modules
+
